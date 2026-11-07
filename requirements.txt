@@ -1,0 +1,2 @@
+# Stdlib-only demo (sqlite3 + FTS5). No third-party packages required.
+# Chinese tokenization uses character bigrams built into sag2_demo.py.
